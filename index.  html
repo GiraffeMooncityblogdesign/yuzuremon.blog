@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Giraffe Moon city / ブログ・イラスト活動日誌をユルっと配信</title>
+        <meta name="description" content="ブレンドコーヒーとヘルシーなオーガニックフードを提供するカフェ">
+
+    <!-- CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Philosopher" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+
+        <link rel="icon" type="image/png" href="images/favicon.png１.png">
+
+    </head>
+
+    <body>
+
+      <body>
+          <div id="home" class="big-bg">
+              <header class="page-header wrapper">
+
+                  <h1><a href="index.html"><img class="logo" src="images/logo.svg" alt=""></a></h1>
+                  <nav>
+                      <ul class="main-nav">
+                          <li><a href="news.html">キリ！っと日常</a></li>
+                          <li><a href="newu.html">日常Insta</a></li>
+                          <li><a href="contact.html">Contact</a></li>
+                      </ul>
+                  </nav>
+              </header>
+
+              <div class="home-content wrapper">
+                  <h2 class="page-title">Giraffe Moon city  </h2>
+                  <p>キリンとUSJが好きな20代。寺越きりん の公式HP ＆ デザインチーム  Giraffe Moon city  オンライン事務所   </p>
+                  <a class="button" href="menu.html">プロフィール</a>
+
+              </div><!-- /.home-content -->
+
+          </div><!-- /#home -->
+
+      </body>
+
+
+    </body>
+
+</html>
+
+
+
+
+
+
+<footer>
+        <div class="wrapper">
+            <p><small>&copy; Copyright2020　Giraffe Moon city .All Rights Reserved. </small></p>
+        </div>
+    </footer>
